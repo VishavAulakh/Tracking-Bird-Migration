@@ -1,0 +1,25 @@
+Throughout the year, migratory birds cross
+countries and continents, some of them 
+from the tundra to the tropics, covering hundreds
+or even thousands of miles linking different ecosystems.
+So our project will help to find out the species of birds
+that are getting endangered so that we and our government
+can make some extra efforts to prevent the birds and 
+our ecosystem.
+
+2D Speed Vs Frequency
+Data for our project will be taken from  
+LifeWatch INBO project
+techniques or Libraries that I will use for this are 
+Matplotlib, Pandas, Numpy
+We will load bird data for any gull into some variable 
+and speed data of
+the same gull into any other variable
+We will plot a 8 x 4 figure and allot isnan speed data
+We will find out the count of
+non numeric entries.
+After that we will plot a histogram using the hist() function.
+
+
+Matplotlib for potting graphs
+Pandas for data analysis
